@@ -1,0 +1,44 @@
+header {
+	color: wheat;
+	padding: 30px;
+	background-color: dimgray;
+}
+li {
+	list-style-type: none;
+}
+
+.includes__user1 {
+	display: flex;
+}
+.includes__pic2 {
+	width: 70px;
+	height: 70px;
+	border-radius: 50%;
+}
+.wrapperUserNameTexts {
+	padding-top: 30px;
+	padding-left: 10px;
+}
+
+.container {
+	width: 800px;
+	padding-left: 50px;
+	padding-right: 50px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.text {
+	text-align: center;
+	padding-right: 500px;
+	padding-top: 0px;
+}
+.namot {
+	list-style: none;
+}
+
+.salom {
+	text-decoration: none;
+	font-size: 20px;
+	color: black;
+}
